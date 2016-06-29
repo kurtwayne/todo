@@ -32,3 +32,4 @@ source 'https://rubygems.org'
  end
 
  gem 'bootstrap-sass'
+ gem 'active_model_serializers'
